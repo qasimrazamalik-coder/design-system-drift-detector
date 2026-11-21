@@ -1,0 +1,18 @@
+{
+  "baseline": [
+    {
+      "key": "primary",
+      "value": "#111111"
+    }
+  ],
+  "current": [
+    {
+      "key": "primary",
+      "value": "#222222"
+    },
+    {
+      "key": "new-token",
+      "value": "8px"
+    }
+  ]
+}

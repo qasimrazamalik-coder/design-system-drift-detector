@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design System Drift Detector"
+  short_description: "Compare product component tokens with a canonical design system and report visual drift with mi"
+  default_prompt: "Use @design-system-drift-detector on my authorized input and return a validated result."
