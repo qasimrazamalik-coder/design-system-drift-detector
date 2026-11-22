@@ -1,5 +1,7 @@
 # Design System Drift Detector
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![AI Skill](https://img.shields.io/badge/AI-Skill-0f766e)](https://github.com/qasimrazamalik-coder/design-system-drift-detector)
+
 ![Workflow](assets/workflow-preview.svg)
 
 Compare product component tokens with a canonical design system and report visual drift with migration priorities.
@@ -27,3 +29,33 @@ Use only authorized exports, official APIs or user-supplied data. This project d
 - `examples/` — reproducible demonstration
 - `tests/` — executable contract test
 - `docs/` — installation and guardrails
+
+## Common questions
+
+### What is Design System Drift Detector?
+
+Design System Drift Detector provides a deterministic, provider-neutral AI workflow.
+
+### Which AI tools can use it?
+
+Claude Code, Codex, ChatGPT, Gemini, Grok, MCP-compatible agents, and custom agent runtimes can use the instructions and deterministic runner.
+
+### Does it require an API key or cloud service?
+
+No. The reference workflow runs locally with Python and uses no external dependency or network call.
+
+### Is commercial use allowed?
+
+Yes. The project is released under the permissive [MIT License](LICENSE), including commercial use, modification, and redistribution subject to the license notice.
+
+### Where are the installation and safety instructions?
+
+See [Installation](docs/INSTALLATION.md), [Guardrails](docs/GUARDRAILS.md), and [Security](SECURITY.md).
+
+## Discovery keywords
+
+design, system, drift, detector, AI agent skill, agentic workflow, Claude Code skill, Codex skill, ChatGPT skill, Gemini skill, Grok skill, MCP, Python automation, open source AI tooling
+
+## License
+
+MIT © 2026 Qasim Raza Malik. See [LICENSE](LICENSE).
